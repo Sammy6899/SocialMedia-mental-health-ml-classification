@@ -61,42 +61,41 @@ The dataset captures demographic, digital engagement, and lifestyle indicators:
 | 📍 **KNN** | **0.981** | **0.979** | **Original** |
 
 > 💡 **Key Takeaway:** Tree-based ensemble learning (**Random Forest**) achieved near-perfect classification on both original and reduced feature spaces. Retaining the full feature set yielded slightly superior performance across all benchmarks.
+---
 
-🚀 Getting Started 💻
-1️⃣ Clone the Repository
+## 🚀 Getting Started 💻
 
-git clone [https://github.com/Sammy6899/SocialMedia-mental-health-ml-classification.git](https://github.com/Sammy6899/SocialMedia-mental-health-ml-classification.git)
-
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Sammy6899/SocialMedia-mental-health-ml-classification.git
 cd SocialMedia-mental-health-ml-classification
 
 2️⃣ Set Up a Virtual Environment & Install Dependencies
-
-Bash
-
 python -m venv venv
-
 source venv/bin/activate
-
 pip install -r requirements.txt
 
 3️⃣ Run the Notebook
-
-Bash
-
 jupyter notebook Project437.ipynb
 
 Or upload directly to Google Colab for cloud GPU/CPU execution! ☁️
 
-📦 Core Dependencies 🛠️
+---
 
-python >= 3.8,
-pandas,
-numpy,
-scikit-learn,
-matplotlib,
-seaborn
+## 📦 Core Dependencies 🛠️
 
-🤝 Contributing & License 📜
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+- `python >= 3.8`
+- `pandas`[cite: 1, 2]
+- `numpy`[cite: 1]
+- `scikit-learn`[cite: 1]
+- `matplotlib`[cite: 1, 2]
+- `seaborn`[cite: 2]
 
-Distributed under the MIT License. See LICENSE for more information.
+---
+
+## 🤝 Contributing & License 📜
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Sammy6899/SocialMedia-mental-health-ml-classification/issues).
+
+Distributed under the **MIT License**. See `LICENSE` for more information.
+
