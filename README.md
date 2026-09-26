@@ -67,21 +67,39 @@ The dataset captures demographic, digital engagement, and lifestyle indicators:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Sammy6899/SocialMedia-mental-health-ml-classification.git
+git clone [https://github.com/Sammy6899/SocialMedia-mental-health-ml-classification.git](https://github.com/Sammy6899/SocialMedia-mental-health-ml-classification.git)
 cd SocialMedia-mental-health-ml-classification
+```
 
-2️⃣ Set Up a Virtual Environment & Install Dependencies
+### 2️⃣ Set Up a Virtual Environment & Install Dependencies
+```bash
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
 
-3️⃣ Run the Notebook
+### 3️⃣ Run the Notebook
+```bash
 jupyter notebook Project437.ipynb
+```
 
-Or upload directly to Google Colab for cloud GPU/CPU execution! ☁️
+> ☁️ *Or upload directly to [Google Colab](https://colab.research.google.com/) for cloud execution!*
 
-📦 Core Dependencies 🛠️python >= 3.8pandas   numpy   scikit-learn   matplotlib   seaborn
-🤝 Contributing & License 📜
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+---
 
-Distributed under the MIT License. See LICENSE for more information.
+## 📦 Core Dependencies 🛠️
+
+- `python >= 3.8`
+- `pandas`[cite: 1, 2]
+- `numpy`[cite: 1]
+- `scikit-learn`[cite: 1]
+- `matplotlib`[cite: 1, 2]
+- `seaborn`[cite: 2]
+
+---
+
+## 🤝 Contributing & License 📜
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Sammy6899/SocialMedia-mental-health-ml-classification/issues).
+
+Distributed under the **MIT License**. See `LICENSE` for more information.
