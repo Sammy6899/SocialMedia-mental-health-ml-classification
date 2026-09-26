@@ -66,25 +66,29 @@ The dataset captures demographic, digital engagement, and lifestyle indicators:
 1️⃣ Clone the Repository
 
 git clone [https://github.com/Sammy6899/SocialMedia-mental-health-ml-classification.git](https://github.com/Sammy6899/SocialMedia-mental-health-ml-classification.git)
+
 cd SocialMedia-mental-health-ml-classification
 
 2️⃣ Set Up a Virtual Environment & Install Dependencies
+
 Bash
 python -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 3️⃣ Run the Notebook
+
 Bash
 jupyter notebook Project437.ipynb
 Or upload directly to Google Colab for cloud GPU/CPU execution! ☁️
 
 📦 Core Dependencies 🛠️
-python >= 3.8
-pandas
-numpy
-scikit-learn
-matplotlib
+
+python >= 3.8,
+pandas,
+numpy,
+scikit-learn,
+matplotlib,
 seaborn
 
 🤝 Contributing & License 📜
