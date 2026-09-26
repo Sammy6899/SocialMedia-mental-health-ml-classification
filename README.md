@@ -11,7 +11,7 @@
 
 ## 📌 Project Overview 🎯
 
-With increasing reliance on digital devices, screen time and social interactions have a profound effect on mental wellness[cite: 2]. This project implements a full machine learning pipeline—from exploratory data analysis (EDA) to multi-class classification—predicting an individual's mental state (`Healthy`, `Stressed`, `At_Risk`).
+With increasing reliance on digital devices, screen time and social interactions have a profound effect on mental wellness. This project implements a full machine learning pipeline—from exploratory data analysis (EDA) to multi-class classification—predicting an individual's mental state (`Healthy`, `Stressed`, `At_Risk`).
 
 ### 🔍 Key Highlights:
 - 📊 **Exploratory Data Analysis (EDA):** Analyzed behavioral trends, platform usage, and distribution of stress/anxiety levels.
