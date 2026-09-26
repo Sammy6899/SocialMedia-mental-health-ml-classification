@@ -80,22 +80,8 @@ jupyter notebook Project437.ipynb
 
 Or upload directly to Google Colab for cloud GPU/CPU execution! ☁️
 
----
+📦 Core Dependencies 🛠️python >= 3.8pandas   numpy   scikit-learn   matplotlib   seaborn
+🤝 Contributing & License 📜
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## 📦 Core Dependencies 🛠️
-
-- `python >= 3.8`
-- `pandas`[cite: 1, 2]
-- `numpy`[cite: 1]
-- `scikit-learn`[cite: 1]
-- `matplotlib`[cite: 1, 2]
-- `seaborn`[cite: 2]
-
----
-
-## 🤝 Contributing & License 📜
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Sammy6899/SocialMedia-mental-health-ml-classification/issues).
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
+Distributed under the MIT License. See LICENSE for more information.
