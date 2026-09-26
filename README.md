@@ -98,8 +98,7 @@ jupyter notebook mental_health_ml_classification.ipynb
 
 ---
 
-## 🤝 Contributing & License 📜
+## 👤 Author & Acknowledgments
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Sammy6899/SocialMedia-mental-health-ml-classification/issues).
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
+- **Developer:** [Sammy6899](https://github.com/Sammy6899)
+- **Course:** CSE437 - Data Science
