@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the Notebook
 ```bash
-jupyter notebook Project437.ipynb
+jupyter notebook mental_health_ml_classification.ipynb
 ```
 
 > ☁️ *Or upload directly to [Google Colab](https://colab.research.google.com/) for cloud execution!*
@@ -90,11 +90,11 @@ jupyter notebook Project437.ipynb
 ## 📦 Core Dependencies 🛠️
 
 - `python >= 3.8`
-- `pandas`[cite: 1, 2]
-- `numpy`[cite: 1]
-- `scikit-learn`[cite: 1]
-- `matplotlib`[cite: 1, 2]
-- `seaborn`[cite: 2]
+- `pandas`
+- `numpy`
+- `scikit-learn`
+- `matplotlib`
+- `seaborn`
 
 ---
 
