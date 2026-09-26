@@ -73,13 +73,15 @@ cd SocialMedia-mental-health-ml-classification
 
 Bash
 python -m venv venv
-source venv/bin/activate        # On Windows: venv\Scripts\activate
+source venv/bin/activate     
 pip install -r requirements.txt
 
 3️⃣ Run the Notebook
 
 Bash
+
 jupyter notebook Project437.ipynb
+
 Or upload directly to Google Colab for cloud GPU/CPU execution! ☁️
 
 📦 Core Dependencies 🛠️
