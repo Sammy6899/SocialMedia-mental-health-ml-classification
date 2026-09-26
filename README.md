@@ -72,8 +72,11 @@ cd SocialMedia-mental-health-ml-classification
 2️⃣ Set Up a Virtual Environment & Install Dependencies
 
 Bash
+
 python -m venv venv
-source venv/bin/activate     
+
+source venv/bin/activate
+
 pip install -r requirements.txt
 
 3️⃣ Run the Notebook
