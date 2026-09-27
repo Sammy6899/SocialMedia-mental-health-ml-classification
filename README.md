@@ -116,5 +116,5 @@ jupyter notebook mental_health_ml_classification.ipynb
 
 ## 👤 Author & Acknowledgments
 
-- **Developer:** [Sammy6899](https://github.com/Sammy6899)
+- **Developer:** Samiha Tasnim Orthi, Nafiz Ahmed Nafi, Maimuna Morshed, Safiur Rahman Safi
 - **Course:** CSE437 - Data Science
