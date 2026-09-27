@@ -1,4 +1,6 @@
-# 🧠 Social Media & Digital Wellbeing: Mental State Classification 📱✨
+# 🧠 Social Media Usage and Mental Health Prediction:
+A Machine Learning Classification Study
+ 📱✨
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg?logo=python&logoColor=white)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?logo=jupyter&logoColor=white)](https://jupyter.org)
@@ -6,6 +8,20 @@
 [![Status](https://img.shields.io/badge/Project-Complete-brightgreen.svg)]()
 
 > An end-to-end Machine Learning project exploring the correlation between daily screen time, social media habits, lifestyle factors, and mental wellbeing.
+
+---
+
+## 📄 Research Paper
+
+This repository contains the official dataset, experimental code, and pipeline for the research study:
+
+> **"Social Media Usage and Mental Health Prediction: A Machine Learning Classification Study"**  
+> *Nafiz Ahmed, Samiha Tasnim Orthi, Maimuna Morshed, Safiur Rahman Safi*  
+> Department of Computer Science & Engineering, BRAC University, Dhaka, Bangladesh[cite: 12]  
+> 📖 **[Read the Full Paper (PDF)](docs/CSE437_IEEE_Conference_Paper.pdf)**[cite: 12]
+
+### 📝 Abstract Summary
+Operating on 5,000 multi-platform behavioral records across seven platforms (Facebook, TikTok, YouTube, WhatsApp, Snapchat, Instagram, and Twitter), this study designs an expanded 45-predictor feature engineering matrix[cite: 12]. Benchmarking four classifiers (Random Forest, Logistic Regression, Support Vector Machine, and K-Nearest Neighbors) demonstrates that Random Forest achieves perfect classification ($Accuracy = F1 = 1.000$) on the original feature space[cite: 12]. Furthermore, a 64.4% dimensionality reduction via Principal Component Analysis (retaining 16 components with 95.93% variance) incurs at most a 0.5% degradation across all models, proving that digital behavioral metadata carries compact, highly discriminative signals regarding psychological state[cite: 12].
 
 ---
 
